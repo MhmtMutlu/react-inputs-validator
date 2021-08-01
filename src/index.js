@@ -36,6 +36,7 @@ export const ValidatedInput = ({ type, errorMessage, ...settings }) => {
         type={type}
         onChange={handleOnChange}
         onFocus={(e) => setIsFocus(true)}
+        style={{ color: error ? "gray" : "green" }}
       />
       {isFocus && message && (
         <React.Fragment>
