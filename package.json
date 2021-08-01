@@ -1,10 +1,10 @@
 {
-  "name": "react-input-validate",
+  "name": "react-inputs-validator",
   "version": "1.0.0",
   "description": "Simple input validator component",
   "author": "MhmtMutlu",
   "license": "MIT",
-  "repository": "MhmtMutlu/react-input-validate",
+  "repository": "MhmtMutlu/react-inputs-validator",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
