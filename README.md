@@ -2,18 +2,18 @@
 
 > Simple input validator React component
 
-[![NPM](https://img.shields.io/npm/v/react-input-validate.svg)](https://www.npmjs.com/package/react-input-validate) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-inputs-validator.svg)](https://www.npmjs.com/package/react-inputs-validator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-input-validate
+npm install --save react-inputs-validator
 ```
 
 ## Usage
 
 ```jsx
-import { ValidatedInput } from 'react-input-validate'
+import { ValidatedInput } from 'react-inputs-validator'
 
 function App(){
   return(
