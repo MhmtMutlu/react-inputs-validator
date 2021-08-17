@@ -1,4 +1,4 @@
-# react-input-validate
+# react-inputs-validator
 
 > Simple input validator React component
 
