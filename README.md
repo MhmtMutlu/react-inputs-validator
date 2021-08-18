@@ -38,8 +38,10 @@ Other Props
 MIT
 
 ## Contributors
-- [Beste Tokpınar](github.com/bstkpnr)
-- [Gizem Yakabağ](github.com/gizemykbg)
-- [Mehmet Mutlu](github.com/MhmtMutlu)
-- [Mehmet Alperen](github.com/alperenmehmet)
-- [Mehmet Hilmi](github.com/mowvf)
+<ul style="list-style-type:disc">
+   <li><a href="https://github.com/bstkpnr">Beste Tokpınar</a></li>
+   <li><a href="https://github.com/gizemykbg">Gizem Yakabağ</a></li>
+   <li><a href="https://github.com/MhmtMutlu">Mehmet Mutlu</a></li>
+   <li><a href="https://github.com/alperenmehmet">Mehmet Alperen</a></li>
+   <li><a href="https://github.com/movwf">Mehmet Hilmi</a></li>
+</ul>
